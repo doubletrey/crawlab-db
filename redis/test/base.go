@@ -1,8 +1,8 @@
 package test
 
 import (
-	"github.com/crawlab-team/crawlab-db"
-	"github.com/crawlab-team/crawlab-db/redis"
+	"github.com/doubletrey/crawlab-db"
+	"github.com/doubletrey/crawlab-db/redis"
 	"testing"
 )
 

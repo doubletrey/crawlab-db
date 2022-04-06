@@ -2,7 +2,7 @@ package mongo
 
 import (
 	"context"
-	"github.com/crawlab-team/crawlab-db/errors"
+	"github.com/doubletrey/crawlab-db/errors"
 	"go.mongodb.org/mongo-driver/mongo"
 )
 

@@ -2,11 +2,9 @@ package redis
 
 import (
 	"github.com/apex/log"
-	"github.com/cenkalti/backoff/v4"
-	"github.com/crawlab-team/crawlab-db"
-	"github.com/crawlab-team/crawlab-db/errors"
-	"github.com/crawlab-team/crawlab-db/utils"
-	"github.com/crawlab-team/go-trace"
+	"github.com/doubletrey/crawlab-db"
+	"github.com/doubletrey/crawlab-db/errors"
+	"github.com/doubletrey/crawlab-db/utils"
 	"github.com/gomodule/redigo/redis"
 	"reflect"
 	"strings"

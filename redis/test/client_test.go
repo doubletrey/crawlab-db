@@ -1,7 +1,7 @@
 package test
 
 import (
-	"github.com/crawlab-team/crawlab-db/redis"
+	"github.com/doubletrey/crawlab-db/redis"
 	"github.com/stretchr/testify/require"
 	"testing"
 	"time"

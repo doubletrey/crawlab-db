@@ -1,7 +1,7 @@
 package redis
 
 import (
-	"github.com/crawlab-team/crawlab-db"
+	"github.com/doubletrey/crawlab-db"
 	"time"
 )
 
