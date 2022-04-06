@@ -1,4 +1,4 @@
-module github.com/crawlab-team/crawlab-db
+module github.com/doubletrey/crawlab-db
 
 go 1.16
 
